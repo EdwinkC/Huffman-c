@@ -1,10 +1,10 @@
 # Huffman(c)
 
-![image](https://github.com/EdwinkC/Huffman-C/blob/master/img/1.jpg)
-![image](https://github.com/EdwinkC/Huffman-C/blob/master/img/2.jpg)
-![image](https://github.com/EdwinkC/Huffman-C/blob/master/img/3.jpg)
-![image](https://github.com/EdwinkC/Huffman-C/blob/master/img/4.jpg)
-![image](https://github.com/EdwinkC/Huffman-C/blob/master/img/5.jpg)
+![image](https://github.com/EdwinkC/Huffman-c/blob/master/img/1.JPG)
+![image](https://github.com/EdwinkC/Huffman-c/blob/master/img/2.JPG)
+![image](https://github.com/EdwinkC/Huffman-c/blob/master/img/3.JPG)
+![image](https://github.com/EdwinkC/Huffman-c/blob/master/img/4.JPG)
+![image](https://github.com/EdwinkC/Huffman-c/blob/master/img/5.JPG)
 
 
-±¾ÏîÄ¿ÊÇÊı¾İ½á¹¹¿Î³ÌÉè¼Æ¿Î³ÌµÄ×÷Òµ¡£
+æœ¬é¡¹ç›®æ˜¯æ•°æ®ç»“æ„è¯¾ç¨‹è®¾è®¡è¯¾ç¨‹çš„ä½œä¸šã€‚
